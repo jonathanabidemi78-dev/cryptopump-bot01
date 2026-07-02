@@ -1,0 +1,1 @@
+worker: python cryptopump_cloud_trading_bot_v8_0.py
